@@ -1,9 +1,0 @@
-requests
-requests-toolbelt
-PyQt6
-Pillow
-PyMuPDF
-opencv-python
-mutagen
-pywin32
-moviepy
